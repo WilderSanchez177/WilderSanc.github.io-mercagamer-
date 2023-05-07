@@ -1,1 +1,1 @@
-# wildersanc.github.io/SEGURIDAD.HTML
+# wildersanc.github.io/SEGURIDAD.html
